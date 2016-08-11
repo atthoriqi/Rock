@@ -1,0 +1,262 @@
+*{
+	padding: 0 auto;
+    margin:  0 auto;
+    font-family: "Open Sans",sans-serif;
+}
+.header img{
+	width: 100%;
+	background-repeat: repeat-x;
+}
+.navbar i{
+	color: white;
+	margin-top: 20px;
+	font-style: normal;
+	float: left;
+	margin-right: 40%;
+	font-size: 30px;
+	margin-left: 5%
+}
+.a{
+}
+.a ul{
+	 list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:rgba(51, 51, 51, 0);
+    top: 0;
+    width: 100%;
+}
+.a li{
+	display: inline-flex;
+	list-style: none;
+	float: left;
+}
+.a a{
+   	text-decoration: none;
+   	display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.a li a:hover: not(.active) {
+    background-color: rgb(163,0,70);
+}
+.active {
+    background-color:rgb(163,0,70);
+	  height: 80px;
+}
+.aa{
+	background: url(Pockline/1_002.jpg/);
+	width: 100%;
+	height: 500px;
+}
+.a1 {
+	background-color: rgba(8, 7, 7, 0.6);
+	padding: 40px;
+	margin-top: 241px;
+}
+.a1 h1{
+	text-align: center;
+	color: white;
+	font-family: sawasdee;
+}
+.a1 p{
+	text-align: center;
+	color: white;
+	font-size: 14px;
+}
+.b{
+	padding: 100px;
+	display: inline-flex;
+	text-align: center;
+}
+.b01{
+	padding: 50px;
+}
+.b3{
+	padding: 50px;
+}
+.b6{
+	padding: 50px;
+}
+.b9{
+	padding: 50px;
+}
+.b1 img{
+	width: 100px;
+	height: 100px;
+	margin-bottom: 50px;
+}
+.b2 h1{
+	font-family: sawasdee;
+	color: rgb(106,102,102);
+}
+.b5 h1{
+	font-family: sawasdee;
+	color: rgb(106,102,102);
+}
+.b5 p{
+	color: rgb(106,102,102);
+	font-size: 14px;
+}
+.b8 h1{
+	font-family: sawasdee;
+	color: rgb(106,102,102);
+}
+.b8 p{
+	color: rgb(106,102,102);
+	font-size: 14px;
+}
+.b11 h1{
+	font-family: sawasdee;
+	color: rgb(106,102,102);
+}
+.b11 p{
+	color: rgb(106,102,102);
+	font-size: 14px;
+}
+.b2 p{
+	color: rgb(106,102,102);
+	font-size: 14px;
+}
+.b4 img{
+	width: 100px;
+	height: 100px;
+	margin-bottom: 50px;
+}
+.b7 img{
+	width: 100px;
+	height: 100px;
+	margin-bottom: 50px;
+}
+.b9 img{
+	width: 100px;
+	height: 100px;
+	margin-bottom: 50px;
+}
+.c{
+	text-align: center;
+	margin-bottom: 150px;
+}
+.c1 h1{
+	font-family: sawasdee;
+	margin-bottom: 20px;
+	font-size: 50px;
+	color: rgb(34,34,34);
+}
+.c2 p{
+	color: rgb(133,133,135);
+	font-size: 14px;
+}
+.d1 img{
+	width: 30%;
+	height: 10%;
+	float: left;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+.d2{
+	margin-bottom: 100px;
+}
+.d21 b{
+	font-family: sawasdee;
+	font-size: 25px;
+}
+.d3 p{
+	line-height:1.3;
+	margin-right: 100px;
+	color: rgb(133,133,135);
+	font-size: 14px;
+}
+.d4 input{
+	background-color: rgb(163,0,70);
+	width: 15%;
+	height: 60px;
+	font-size: 20px;
+	color: white;
+}
+.e1{
+	display:  inline-flex;
+	padding: 50px;
+}
+.e11{
+	padding: 50px;
+}
+.e12 h2{
+	font-family: sawasdee;
+}
+.e13 p{
+	color: rgb(133,133,135);
+	font-size: 14px;
+}
+.e14{
+	padding: 50px;
+}
+.e15 h2{
+	font-family: sawasdee;
+}
+.e16 p{
+	color: rgb(133,133,135);
+	font-size: 14px;
+}
+.e16 li{
+	color: rgb(133,133,135);
+	font-size: 14px;
+}
+.e17{
+	padding: 50px;
+}
+.e18 h2{
+	font-family: sawasdee;
+}
+.e19 p{
+	color: rgb(133,133,135);
+	font-size: 14px;
+}
+.f{
+	background-color: rgb(163,0,70);
+}
+.f01{
+	padding:  100px;
+}
+.f1{
+	text-align: center;
+	font-size: 30px;
+	color: white;
+	margin-bottom: 100px;
+}
+.f1 h1{
+	font-family: sawasdee;
+}
+.f2{
+	display: inline-flex;
+	margin-left: 50px;
+}
+.f11 img{
+	width: 150px;
+	height: 80px;
+	margin-right: 100px;
+}
+.f12 img{
+	margin-right: 100px;
+	width: 150;
+	height: 80px;
+}
+.f13 img{
+	width: 150px;
+	height: 80px;
+	margin-right: 100px;
+	margin-left: 100px;
+}
+.f14 img{
+	margin-right: 100px;
+  width: 150px;
+	height: 80px;
+}
+.f15 img{
+	margin-right: 100px;
+  width: 150px;
+	height: 80px;
+}
